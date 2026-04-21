@@ -186,4 +186,4 @@ HR-Analytics-Dashboard/
 **Nishita Thakur**  
 Data Analyst | SQL | Power BI | Tableau | Excel | Python  
 📧 nishitathakur30@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/nishitathakur-/) | [GitHub](your-github-url)
+🔗 [LinkedIn](https://www.linkedin.com/in/nishitathakur-/) | [GitHub](https://github.com/nishitathakur30-hub)
