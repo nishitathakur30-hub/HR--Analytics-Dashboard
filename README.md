@@ -156,7 +156,7 @@ ORDER BY h2.YearsSinceLastPromotion;
 ![Power BI Dashboard](https://github.com/nishitathakur30-hub/HR--Analytics-Dashboard/blob/main/PowerBI_Dashboard.png)
 
 ### Tableau Dashboard
-![Tableau Dashboard](screenshots/tableau_dashboard.png)
+![Tableau Dashboard](https://github.com/nishitathakur30-hub/HR--Analytics-Dashboard/blob/main/Tableau%20Dashboard.png)
 
 ---
 
