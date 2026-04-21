@@ -153,7 +153,7 @@ ORDER BY h2.YearsSinceLastPromotion;
 ![Excel Dashboard](https://github.com/nishitathakur30-hub/HR--Analytics-Dashboard/blob/main/Excel%20Dashboard.PNG)
 
 ### Power BI Dashboard
-![Power BI Dashboard](https://github.com/nishitathakur30-hub/HR--Analytics-Dashboard/blob/main/PowerBI_Dashboard.png)
+![Power BI Dashboard](https://github.com/nishitathakur30-hub/HR--Analytics-Dashboard/blob/main/PowerBI_Dashboard%20Screenshot.png)
 
 ### Tableau Dashboard
 ![Tableau Dashboard](https://github.com/nishitathakur30-hub/HR--Analytics-Dashboard/blob/main/Tableau%20Dashboard.png)
