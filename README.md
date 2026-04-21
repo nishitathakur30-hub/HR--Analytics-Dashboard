@@ -153,7 +153,7 @@ ORDER BY h2.YearsSinceLastPromotion;
 ![Excel Dashboard](https://github.com/nishitathakur30-hub/HR--Analytics-Dashboard/blob/main/Excel%20Dashboard.PNG)
 
 ### Power BI Dashboard
-![Power BI Dashboard](screenshots/powerbi_dashboard.png)
+![Power BI Dashboard](https://github.com/nishitathakur30-hub/HR--Analytics-Dashboard/blob/main/PowerBI_Dashboard.png)
 
 ### Tableau Dashboard
 ![Tableau Dashboard](screenshots/tableau_dashboard.png)
@@ -186,4 +186,4 @@ HR-Analytics-Dashboard/
 **Nishita Thakur**  
 Data Analyst | SQL | Power BI | Tableau | Excel | Python  
 📧 nishitathakur30@gmail.com  
-🔗 [LinkedIn](your-linkedin-url) | [GitHub](your-github-url)
+🔗 [LinkedIn](https://www.linkedin.com/in/nishitathakur-/) | [GitHub](your-github-url)
