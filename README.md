@@ -150,7 +150,7 @@ ORDER BY h2.YearsSinceLastPromotion;
 ## 📸 Dashboard Screenshots
 
 ### Excel Dashboard
-![Excel Dashboard](screenshots/excel_dashboard.png)
+![Excel Dashboard](Excel Dashboard.PNG)
 
 ### Power BI Dashboard
 ![Power BI Dashboard](screenshots/powerbi_dashboard.png)
