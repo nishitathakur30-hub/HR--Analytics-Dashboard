@@ -150,7 +150,7 @@ ORDER BY h2.YearsSinceLastPromotion;
 ## 📸 Dashboard Screenshots
 
 ### Excel Dashboard
-![Excel Dashboard](https://github.com/nishitathakur30-hub/HR--Analytics-Dashboard/blob/main/Excel%20Dashboard.PNG)
+![Excel Dashboard](https://github.com/nishitathakur30-hub/HR--Analytics-Dashboard/blob/main/Excel%20Dashboard%20Screenshot.PNG)
 
 ### Power BI Dashboard
 ![Power BI Dashboard](https://github.com/nishitathakur30-hub/HR--Analytics-Dashboard/blob/main/PowerBI_Dashboard%20Screenshot.png)
